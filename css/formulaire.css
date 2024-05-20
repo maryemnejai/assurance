@@ -1,0 +1,191 @@
+.pdf img {
+    margin-top: 50px;
+
+    width: 100px;
+    /* Définir la largeur de l'image */
+    height: auto;
+    /* Garder le ratio hauteur/largeur */
+    border: 2px solid;
+    /* Ajouter une bordure de 2px solide grise */
+    border-radius: 5px;
+    /* Ajouter un arrondi aux coins */
+    background-color:whitesmoke;
+    margin-left: 200px;
+}
+
+
+
+.alternate-method img {
+    margin-top: 50px;
+
+    width: 70px;
+    /* Définir la largeur de l'image */
+    height: auto;
+    /* Garder le ratio hauteur/largeur */
+    border: 2px solid;
+    /* Ajouter une bordure de 2px solide grise */
+    border-radius: 5px;
+    /* Ajouter un arrondi aux coins */
+    background-color:whitesmoke;
+    margin-left: 45px;
+}
+
+.mycontent-left {
+    border-right: 1px solid gray;
+}
+
+.right-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.right-top h2 {
+    margin: auto 50px;
+}
+
+.line {
+    height: 3px;
+    width: 200px;
+    background-color: black;
+}
+.mycontent-left {
+    border-right: 1px solid gray;
+}
+.title {
+    text-align: center;
+    text-color: white;
+}
+
+.appointment {
+    border-radius: 10px !important;
+    /* Couleur de fond noire */
+    border-radius: 5px;
+    /* Rayon de bordure de 10px */
+    padding: 20px;
+}
+
+.ou{
+    text-align:center;
+}
+
+.step-count {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .seperator {
+    width: 60px;
+    height: 2px;
+    background-color: black;
+    margin: auto 40px;
+  }
+  .step-count h2 {
+    border: 2px solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .selected {
+    background-color: lightgray;
+  }
+  .checked {
+    width: 60px;
+  }
+
+
+
+
+
+
+
+
+
+  .btnomotdpasse {
+	color: #fff  !important;
+	padding: 13px 25px;
+	margin-left:10px  !important;
+	font-size: 14px;
+	text-transform: capitalize;
+	font-weight: 500;
+	background: #1A76D1;
+	position: relative;
+	box-shadow: none;
+	display: inline-block;
+}
+
+
+.method img {
+    margin-top: 100px;
+
+    width: 70px;
+    /* Définir la largeur de l'image */
+    height: auto;
+    /* Garder le ratio hauteur/largeur */
+    border: 2px solid ;
+    /* Ajouter une bordure de 2px solide grise */
+    border-radius: 5px;
+    /* Ajouter un arrondi aux coins */
+    background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+.formBtn {
+    color: white  !important;
+    padding: 13px 25px;
+    font-size: 14px;
+    background: #1A76D1;
+    box-shadow: none;
+    border: none;
+    border-radius: 4px;
+}
+.btnagent {
+    color: white !important;
+    padding: 13px 25px;
+    margin-left: 450px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+    background: #1A76D1;
+    position: relative;
+    box-shadow: none;
+    display: inline-block;
+    border: none;
+    border-radius: 0;
+    border-radius: 4px;
+}
+
+
+.btnagent2 {
+    color: white  !important;
+    padding: 13px 25px;
+    margin-left: 50px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+    background: #1A76D1;
+    position: relative;
+    box-shadow: none;
+    display: inline-block;
+    border: none;
+    border-radius: 0;
+    border-radius: 4px;
+}
+
+
+
+label {
+    color:black;
+    font-weight: bold;
+  }
